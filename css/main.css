@@ -92,11 +92,8 @@ a:hover {
 
 	.article img {
 		margin: -30px -65px 20px;
-	}
-
-	.article img {
 		width: 720px;
-	}	
+	}
 
 	.article time {
 		font-size: 12px;
@@ -135,6 +132,7 @@ a:hover {
 	}
 
 	.article img {
+		margin: -20px -45px 20px;
 		width: 640px;
 	}	
 
@@ -165,10 +163,6 @@ a:hover {
 		margin: 0 0 30px;
 	}
 
-	.article img {
-		margin: -20px -45px 20px;
-	}
-
 	.read-more {
 		font-size: 14px;
 	}
@@ -194,7 +188,6 @@ a:hover {
 	
 	.article h1 {
 		font-size: 28px;
-		/*line-height: 1.2;*/
 		padding: 0 0 15px;
 		margin: 0 0 8px;
 	}
